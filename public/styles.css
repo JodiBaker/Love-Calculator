@@ -1,0 +1,53 @@
+h1 {
+ color: rgba(22, 17, 5, 0.653);
+ text-align: center;
+
+}
+.love-start {
+  background-image: url(images/Fullhearts.jpg);
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-position: 10%;
+}
+.love-head{
+  width: 300px;
+  padding: 0px, 0px, 0px, 0px;
+  margin: 20px;
+  padding-top: 10%;
+  padding-left: 37%;
+}
+.love-form{
+  width:100%;
+  padding: 0px, 0px, 0px, 0px;
+  margin-left: 30%;
+  text-shadow: 2cm;;
+}
+
+.no-love{
+  width: 300px;
+  padding: 50px;
+  margin-left: 37%;
+  margin-top: 50px;
+  background-color: rgba(192, 144, 144, 0.393);
+  border: 15px;
+  border-radius: 20%;
+
+}
+
+.love-end{
+  background-image: url(images/brokenHeart.jpg);
+  background-size:cover;
+  background-repeat:no-repeat ;
+  background-position: 10%;
+  background-attachment: fixed;
+}
+
+.yes-love{
+  text-align: center;
+  color: rgb(12, 3, 12);
+  width: 300px;
+  padding: 10px,0px,0px, 0px;
+  margin: 20px;
+  padding-left: 37%;
+}
+  
