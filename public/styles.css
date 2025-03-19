@@ -5,9 +5,10 @@ h1 {
 }
 .love-start {
   background-image: url(images/Fullhearts.jpg);
-  background-size:cover;
+  background-attachment: fixed;
+  background-size:100%;
   background-repeat:no-repeat;
-  background-position: 10%;
+  background-position: center;
 }
 .love-head{
   width: 300px;
@@ -15,12 +16,15 @@ h1 {
   margin: 20px;
   padding-top: 10%;
   padding-left: 37%;
+  position: fixed;
 }
 .love-form{
   width:100%;
   padding: 0px, 0px, 0px, 0px;
+  margin-top: 20%;
   margin-left: 30%;
-  text-shadow: 2cm;;
+  text-shadow: 2cm;
+  position: fixed;
 }
 
 .no-love{
